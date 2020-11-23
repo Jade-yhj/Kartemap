@@ -16,6 +16,11 @@ Specific input attributes are as follows:
 6.Deploy your application onto your local computer.
 
 The final output:
+
+Screenshot1:
+
 ![](image/Screenshot1.png)
+
+Screenshot2:
 
 ![](image/Screenshot2.png)
