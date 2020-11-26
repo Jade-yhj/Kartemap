@@ -1,5 +1,5 @@
 # Kartemap
-This are the files for PythonII Assignment 1 - Kartemap Web Application
+This is the document for PythonII Assignment 1 - Kartemap Web Application
 
 Specific input attributes are as follows:
 
