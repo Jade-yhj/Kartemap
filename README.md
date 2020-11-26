@@ -14,8 +14,8 @@ Specific input attributes are as follows:
 5.Dash Callbacks - Design and build user interaction with Dash callbacks.
 
 6.Deploy your application onto your local computer.
-
-The final output:
+ 
+#### The final output:
 
 Screenshot1:
 
